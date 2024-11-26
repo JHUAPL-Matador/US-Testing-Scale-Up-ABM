@@ -1,5 +1,0 @@
-variant, rel_beta, rel_symp_prob, rel_severe_prob, rel_crit_prob, rel_death_prob
-wildtype, 1.0, 1.0, 1.0, 1.4, 1.0
-alpha, 1.67, 1.0, 1.10, 1.55, 1.0
-delta, 2.2, 1.0, 1.76, 1.2, 1.0
-omicron, 7.0, 1.0, 0.75, 1.8, 1.0
