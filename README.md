@@ -30,7 +30,7 @@ The main scripts for each scenario with customized adjustments are located in th
 - `msimC3.py` (C3)
 
 ## Prerequisites
-The ABM is based on the Covasim 3.1.4 workflow developed by the Institute of Disease Modeling (IDM). 
+The ABM is based on the Covasim 3.1.4 modeling workflow developed by the Institute of Disease Modeling (IDM). 
 
 The following packages are necessary for running the ABM:
 
@@ -42,7 +42,7 @@ The following packages are necessary for running the ABM:
 - sciris 3.1.2
 
 ## Data 
-The `data` folder contains the model input data for the COVASIM. This includes four data input files for scenarios C0 to C1:
+The `data` folder contains the model input data for the COVASIM. This includes four data input files for scenarios C0 to C3:
 - `usa-data-1.0-1.0.csv` (C0)
 - `usa-data-1.0-0.2.csv` (C1)
 - `usa-data-1.0-delay.csv` (C2)
